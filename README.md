@@ -1,7 +1,7 @@
 # Giuntella-and-Lonsky-JHE-2020-
 Replication files for Giuntella & Lonsky (Journal of Health Economics, 2020):
 
-- The PDF file included is the final (publication) version of the paper and it includes the full Appendix. 
+- The PDF file included is the final version of the paper (including a full Appendix). 
 
 - The two Stata 15 do-files attached replicate all main figures and tables in the paper (except for those that were generated using confidential data of the California Health Interview Survey).
 
